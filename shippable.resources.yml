@@ -3,7 +3,7 @@ resources:
     type: gitRepo
     integration: github
     pointer:
-      sourceName: rc-testorg/sample-script-3
+      sourceName: jun15test/sample-script-3
       branch: master
       buildOnPullRequest: true  
       buildOnRelease: true               
